@@ -2,6 +2,13 @@ What it is
 ----------
 These scripts are intended to extract all custom php from database.
 
+Requirements
+------------
+* Drupal 7.x
+* (Views)
+* (Views PHP)
+* (Panels)
+
 Why
 ---
 * When your codebase in get big then you have a lot of references from views and from panels to your code.
